@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactgooglekeep/static/css/main.2a8c9759.chunk.css",
+    "main.js": "/reactgooglekeep/static/js/main.1103fc38.chunk.js",
+    "main.js.map": "/reactgooglekeep/static/js/main.1103fc38.chunk.js.map",
+    "runtime-main.js": "/reactgooglekeep/static/js/runtime-main.f9367ab1.js",
+    "runtime-main.js.map": "/reactgooglekeep/static/js/runtime-main.f9367ab1.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactgooglekeep/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5522ba6e.chunk.js": "/reactgooglekeep/static/js/2.5522ba6e.chunk.js",
+    "static/js/2.5522ba6e.chunk.js.map": "/reactgooglekeep/static/js/2.5522ba6e.chunk.js.map",
+    "index.html": "/reactgooglekeep/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactgooglekeep/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2a8c9759.chunk.css.map": "/reactgooglekeep/static/css/main.2a8c9759.chunk.css.map",
+    "static/js/2.5522ba6e.chunk.js.LICENSE.txt": "/reactgooglekeep/static/js/2.5522ba6e.chunk.js.LICENSE.txt",
+    "static/media/logo.4eb9a19b.png": "/reactgooglekeep/static/media/logo.4eb9a19b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9367ab1.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5522ba6e.chunk.js",
+    "static/css/main.2a8c9759.chunk.css",
+    "static/js/main.1103fc38.chunk.js"
+  ]
+}
